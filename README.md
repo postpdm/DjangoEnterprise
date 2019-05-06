@@ -1,0 +1,2 @@
+# DjangoEnterprise
+Django enterprise models
