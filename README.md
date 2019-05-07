@@ -3,9 +3,9 @@ Django enterprise models
 
 # Profiles
 
-    ```python
+```python
     from DjangoEnterprise.djangoenterprise.profiles import BaseProfile
     
     class Profile(BaseProfile):
         pass
-    ```
+```
