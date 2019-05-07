@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='earthscipy',
+setup(name='djangoenterprise',
       version='0.0.0',
       description='Django Enterprise models lib',
       url='https://github.com/postpdm/DjangoEnterprise',
